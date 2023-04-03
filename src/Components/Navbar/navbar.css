@@ -1,0 +1,23 @@
+.Navv {
+  width: 85px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid lightblue;
+  border-radius: 6px;
+  color: black;
+}
+
+#favC {
+  width: 30px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: lightblue;
+  color: black;
+  margin-left: -30px;
+}
+
+.Navv:hover {
+  color: white;
+  /* color: black; */
+  background-color: lightblue;
+}
